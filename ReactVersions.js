@@ -26,6 +26,7 @@ const ReactVersion = '18.3.0';
 //
 // It only affects the label used in the version string. To customize the
 // npm dist tags used during publish, refer to .circleci/config.yml.
+//testing
 const canaryChannelLabel = 'canary';
 
 const stablePackages = {
